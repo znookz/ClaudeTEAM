@@ -1,4 +1,4 @@
-# CLAUDE.md — Full-Stack Web / Windows Server / IIS
+ # CLAUDE.md — Full-Stack Web / Windows Server / IIS
 ตอบภาษาไทย สั้นกระชับ (โค้ด/คำสั่ง/ชื่อไฟล์ใช้อังกฤษ) · กฎเชิงลึกอยู่ใน `.claude/rules/` (โหลดตาม path) และ `.claude/skills/` (เรียกเมื่อจำเป็น)
 
 ## Tech Stack
