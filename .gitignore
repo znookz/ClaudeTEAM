@@ -1,0 +1,15 @@
+.claude/settings.local.json
+.claude/worktrees/
+*.pfx
+*.key
+*.pem
+*.p12
+.env
+.env.*
+*.log
+*.bak
+node_modules/
+bin/
+obj/
+dist/
+build/

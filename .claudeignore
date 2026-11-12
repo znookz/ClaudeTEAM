@@ -1,0 +1,25 @@
+# Token-eaters & junk — do not read/index
+# (Claude Code enforces this via permissions.deny in .claude/settings.json; kept here as the team's single list)
+
+# Dependencies & build output
+node_modules/
+dist/
+build/
+bin/
+obj/
+
+# Logs, traces, dumps
+*.log
+*.etl
+*.dmp
+IISLogs/
+W3SVC*/
+stdout*
+
+# Database files & backups
+*.bak
+*.mdf
+*.ldf
+
+# Claude worktrees
+.claude/worktrees/
